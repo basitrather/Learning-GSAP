@@ -12,9 +12,13 @@
   },
   "license": "ISC",
   "author": "Basit Showkat Rather",
-  "type": "commonjs",
-  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "gsap": "^3.14.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
   }
 }
