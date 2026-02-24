@@ -1,5 +1,12 @@
-24-Feb_2026
+24-Feb_2026 DAY-0
 Learned about basic methods of animations: to(),from(),fromTo() and timeline
 Animations can we stored in variables also.
 
-25-Feb_2026
+25-Feb_2026 DAY-01
+Learned about stagger,Ease and its properties
+Learned about the postioning and some of its properties
+Learned about labels and how do they actually work
+MINI-PROJECT :gsap-day1-foundations ✅
+
+
+
