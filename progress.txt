@@ -1,3 +1,5 @@
 24-Feb_2026
 Learned about basic methods of animations: to(),from(),fromTo() and timeline
 Animations can we stored in variables also.
+
+25-Feb_2026
