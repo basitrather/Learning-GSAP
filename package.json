@@ -1,0 +1,20 @@
+{
+  "name": "learning-gsap",
+  "version": "1.0.0",
+  "description": "This is repo is for documenting my learning of GSAP from basic to advance.",
+  "homepage": "https://github.com/basitrather/Learning-GSAP#readme",
+  "bugs": {
+    "url": "https://github.com/basitrather/Learning-GSAP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basitrather/Learning-GSAP.git"
+  },
+  "license": "ISC",
+  "author": "Basit Showkat Rather",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
